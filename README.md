@@ -6,7 +6,7 @@ This web application is built using HTML, CSS, and JavaScript to visualize class
 
 ## Purpose
 
-I developed this Sorting Visualizer web application to enhance my skills in HTML, CSS, and JavaScript. This tool is designed to assist beginners in programming by providing a clear and interactive way to understand sorting algorithms through visualization.
+I developed this Sorting Visualizer web application to enhance my skills in HTML, CSS, and JavaScript while showcasing my knowledge of data structures and algorithms (DSA). This interactive tool not only helps beginners grasp the fundamentals of sorting algorithms but also demonstrates my ability to integrate frontend technologies with algorithmic concepts.
 
 ## Supported Sorting Algorithms:
 
