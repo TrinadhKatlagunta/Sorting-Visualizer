@@ -2,7 +2,7 @@
 
 This web application is built using HTML, CSS, and JavaScript to visualize classic sorting algorithms, including Bubble Sort, Insertion Sort, Selection Sort, Merge Sort, and Quick Sort.
 
-**Live-** [Sorting Visualizer](https://trinadhkatlgunta.github.io/Sorting-Visualizer/) 
+**Live-** [Sorting Visualizer](https://trinadhkatlagunta.github.io/Sorting-Visualizer/) 
 
 ## Purpose
 
